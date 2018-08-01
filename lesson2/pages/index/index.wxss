@@ -1,0 +1,17 @@
+/**index.wxss**/
+input{
+  border: 1px solid #000;
+  width: 60%;
+  margin: 5%;
+  padding: 5px;
+}
+
+button{
+  width: 80px;
+  height: 30px;
+  font-size: 12px;
+  position: absolute;
+  top: 80%;
+  left: 50%;
+  margin-left: -40px;
+}

@@ -1,0 +1,4 @@
+<view class="container">
+  <input placeholder="快递单号" id="kuaidi" bindinput="getNo" auto-focus />
+  <button catchtap="search" id="search">查询</button>
+</view>

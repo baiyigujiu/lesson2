@@ -1,0 +1,63 @@
+{
+  "code": 0,
+  "msg": "数据加载中...",
+  "count": 8,
+  "data": [
+    {
+      "F_company_id": " 57680455-4",
+      "F_company_name": "广西贺州恒威房地产开发有限责任公司",
+      "keep": 0.5,
+      "lose": 0.0,
+      "score": 0.5
+    },
+    {
+      "F_company_id": " 69760146-2",
+      "F_company_name": "北海泰昊房地产开发有限公司",
+      "keep": 1.3,
+      "lose": -0.5,
+      "score": 0.8
+    },
+    {
+      "F_company_id": " 76891063-4",
+      "F_company_name": "广西宏湖房地产开发有限责任公司",
+      "keep": 0.0,
+      "lose": -0.2,
+      "score": -0.2
+    },
+    {
+      "F_company_id": "........",
+      "F_company_name": "中国人民武装警察部队陆川县消防大队",
+      "keep": 0.0,
+      "lose": -0.2,
+      "score": -0.2
+    },
+    {
+      "F_company_id": "00",
+      "F_company_name": "南宁市江南区沙井街道同乐村24组",
+      "keep": 0.0,
+      "lose": -0.1,
+      "score": -0.1
+    },
+    {
+      "F_company_id": "0000000000000000000",
+      "F_company_name": "广西企向建筑工程有限责任公司",
+      "keep": 0.3,
+      "lose": 0.0,
+      "score": 0.3
+    },
+    {
+      "F_company_id": "000000000000001111",
+      "F_company_name": "广西五和博澳桑源生物科技有限公司",
+      "keep": 0.3,
+      "lose": 0.0,
+      "score": 0.3
+    },
+    {
+      "F_company_id": "0000000049881838-6",
+      "F_company_name": "合浦县党江镇篮星小学",
+      "keep": 0.8,
+      "lose": 0.0,
+      "score": 0.8
+    }
+  ]
+}
