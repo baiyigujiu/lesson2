@@ -27,7 +27,7 @@
         <mxCell id="QhHLWVHxjE9e42qX0wpD-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="QhHLWVHxjE9e42qX0wpD-6" target="QhHLWVHxjE9e42qX0wpD-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QhHLWVHxjE9e42qX0wpD-6" value="默认账号登录" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+        <mxCell id="QhHLWVHxjE9e42qX0wpD-6" value="默认账号登录&lt;br&gt;获取token" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="610" y="160" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="QhHLWVHxjE9e42qX0wpD-9" value="页面随时随地可以打开" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
