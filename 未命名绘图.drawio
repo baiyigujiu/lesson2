@@ -8,7 +8,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QhHLWVHxjE9e42qX0wpD-1" value="白云机房显示模块" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="400" y="30" width="120" height="40" as="geometry" />
+          <mxGeometry x="630" y="40" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="QhHLWVHxjE9e42qX0wpD-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="QhHLWVHxjE9e42qX0wpD-2" target="QhHLWVHxjE9e42qX0wpD-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -22,37 +22,52 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QhHLWVHxjE9e42qX0wpD-2" value="根据tenantId&lt;br&gt;判断是否走默认账号自动登录逻辑" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="400" y="140" width="120" height="80" as="geometry" />
+          <mxGeometry x="630" y="150" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="QhHLWVHxjE9e42qX0wpD-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="QhHLWVHxjE9e42qX0wpD-6" target="QhHLWVHxjE9e42qX0wpD-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QhHLWVHxjE9e42qX0wpD-6" value="默认账号登录&lt;br&gt;获取token" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="610" y="160" width="90" height="40" as="geometry" />
+          <mxGeometry x="840" y="170" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="QhHLWVHxjE9e42qX0wpD-9" value="页面随时随地可以打开" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="760" y="160" width="140" height="40" as="geometry" />
+          <mxGeometry x="990" y="170" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="_MUwFamqk6n-tNbShCEX-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QhHLWVHxjE9e42qX0wpD-11" target="_MUwFamqk6n-tNbShCEX-1">
+        <mxCell id="_MUwFamqk6n-tNbShCEX-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="QhHLWVHxjE9e42qX0wpD-11" target="_MUwFamqk6n-tNbShCEX-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QhHLWVHxjE9e42qX0wpD-11" value="向卷帙获取token" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="400" y="310" width="120" height="60" as="geometry" />
+          <mxGeometry x="630" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QhHLWVHxjE9e42qX0wpD-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="QhHLWVHxjE9e42qX0wpD-13" target="QhHLWVHxjE9e42qX0wpD-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QhHLWVHxjE9e42qX0wpD-13" value="云岛管理" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="170" y="30" width="120" height="40" as="geometry" />
+          <mxGeometry x="400" y="40" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="QhHLWVHxjE9e42qX0wpD-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="QhHLWVHxjE9e42qX0wpD-14" target="QhHLWVHxjE9e42qX0wpD-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QhHLWVHxjE9e42qX0wpD-14" value="租户-自登录设置" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="170" y="140" width="120" height="80" as="geometry" />
+          <mxGeometry x="400" y="150" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="_MUwFamqk6n-tNbShCEX-1" value="链接中不暴露token&lt;div&gt;单独打开提示未登录&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="400" y="450" width="120" height="60" as="geometry" />
+        <mxCell id="_MUwFamqk6n-tNbShCEX-1" value="链接中不暴露token&lt;div&gt;单独打开提示未登录&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="630" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="F_HAnNNiwPfavNh-7Mu_-2" value="&lt;div style=&quot;line-height: 200%;&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;方案一&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="120" y="103" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="F_HAnNNiwPfavNh-7Mu_-3" value="&lt;div style=&quot;line-height: 200%;&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;方案二&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="120" y="680" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="F_HAnNNiwPfavNh-7Mu_-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="F_HAnNNiwPfavNh-7Mu_-4" target="F_HAnNNiwPfavNh-7Mu_-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="F_HAnNNiwPfavNh-7Mu_-4" value="白云机房显示模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="680" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="F_HAnNNiwPfavNh-7Mu_-5" value="根据链接中的参数判断当前使用场景&lt;br&gt;显示模块场景走自动登录&lt;br&gt;卷帙场景从链接中获取" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="600" y="665" width="210" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
